@@ -1,3 +1,5 @@
+//clone you project from github or other,and install package
+
 const fs = require('fs')
 const { exec } = require('child_process')
 
